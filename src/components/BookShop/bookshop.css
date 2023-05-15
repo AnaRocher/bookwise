@@ -1,0 +1,40 @@
+.shop-container {
+    color: #FFE3BD;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+.add-to-cart {
+    background-color: #1EAAFB;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    color: #FFE3BD;
+    padding: 10px 15px;
+}
+
+.add-to-cart:hover {
+    background-color: #FFE3BD;
+    color: #1EAAFB;
+    cursor: pointer;
+}
+
+.book-item {
+    border: 0.5px solid #FFE3BD;
+    background-color: black;
+    padding: 15px;
+}
+
+.popup-message {
+    background-color: #FFE3BD;
+    color: #1EAAFB;
+    padding: 80px;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

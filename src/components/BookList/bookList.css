@@ -1,0 +1,35 @@
+.book-container {
+    color: #FFE3BD;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+.book-title {
+    margin: 40px 0 40px 0;
+}
+
+.book-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+}
+
+.book-cover {
+    border-radius: 5px;
+}
+
+.toggle-button {
+    background-color: #1EAAFB;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    color: #FFE3BD;
+    padding: 10px 15px;
+}
+
+.toggle-button:hover {
+    cursor: pointer;
+    background-color: #FFE3BD;
+    color: #1EAAFB;
+}
