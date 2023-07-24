@@ -1,5 +1,5 @@
 ** This was the end project that I made at the end of my trainning, I wanted to build a web application related to books, where you can register and log in, you have a profile page where you can upload the book that you are currently reading and add books to your favorites list. There is also a recommended books page with book resumes. There's also a bookshop page where you can buy second-hand books.
-The code was written to store information in local storage. Notice that this was a school project, so there is a lot to improve, this was for self practise.**
+The code was written to store information in local storage. Notice that this was a school project, so there is a lot to improve as the time given to us was also short and this was for self practise.**
 
 
 
